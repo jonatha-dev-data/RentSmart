@@ -6,7 +6,7 @@ Disciplina: *Algorithmic Thinking & Introduction to Object-Oriented Programming*
 
 ## Requisitos
 
-- Python **3.10 ou superior** (somente biblioteca padrão — não há nada para instalar).
+- Python **3.10 ou superior**.
 
 ## Como executar
 
